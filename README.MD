@@ -3,19 +3,15 @@
 ## Install
 
 ```sh
-$ npm install --save react-thermometer-component
+$ npm install --save @joshtwc/react-thermometer-component
 ```
-
-# View demo
-
-https://zamarrowski.github.io/react-thermometer-component/
 
 ## Usage
 
 ```js
 import React from 'react'
 import { render } from 'react-dom'
-import Thermometer from 'react-thermometer-component'
+import Thermometer from '@joshtwc/react-thermometer-component'
 
 render(
   <Thermometer
